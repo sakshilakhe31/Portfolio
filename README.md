@@ -19,8 +19,11 @@ JavaScript
 📂 Project Structure
 portfolio-website/
 │
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet
-├── script.js           # JavaScript file
-├── images/             # Images folder
-└── README.md           # Project documentation
+├── index.html         
+├── style.css          
+├── script.js      
+├── images/            
+└── README.md          
+
+👩‍💻 Developer
+Developed by Sakshi Lakhe
